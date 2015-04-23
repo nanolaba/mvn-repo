@@ -3,10 +3,10 @@
   <groupId>com.nanolaba</groupId>
   <artifactId>email-queue</artifactId>
   <versioning>
-    <release>0.0.5</release>
+    <release>0.0.6</release>
     <versions>
-      <version>0.0.5</version>
+      <version>0.0.6</version>
     </versions>
-    <lastUpdated>20150423035251</lastUpdated>
+    <lastUpdated>20150423165754</lastUpdated>
   </versioning>
 </metadata>
