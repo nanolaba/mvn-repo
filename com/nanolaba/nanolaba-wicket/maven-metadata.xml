@@ -3,10 +3,10 @@
   <groupId>com.nanolaba</groupId>
   <artifactId>nanolaba-wicket</artifactId>
   <versioning>
-    <release>0.1.0</release>
+    <release>0.1.1</release>
     <versions>
-      <version>0.1.0</version>
+      <version>0.1.1</version>
     </versions>
-    <lastUpdated>20180109084449</lastUpdated>
+    <lastUpdated>20180109085436</lastUpdated>
   </versioning>
 </metadata>
