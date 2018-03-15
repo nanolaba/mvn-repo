@@ -3,10 +3,10 @@
   <groupId>com.nanolaba</groupId>
   <artifactId>nanolaba-commons</artifactId>
   <versioning>
-    <release>0.0.32</release>
+    <release>0.0.33</release>
     <versions>
-      <version>0.0.32</version>
+      <version>0.0.33</version>
     </versions>
-    <lastUpdated>20180315134419</lastUpdated>
+    <lastUpdated>20180315162627</lastUpdated>
   </versioning>
 </metadata>
