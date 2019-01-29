@@ -1,0 +1,12 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sat Jan 13 12:54:32 MSK 2018
+https\://oss.sonatype.org/content/repositories/snapshots/.error=
+http\://dl.bintray.com/jbaruch/jbaruch-maven/.lastUpdated=1515837271480
+https\://oss.sonatype.org/content/repositories/snapshots/.lastUpdated=1515837272010
+http\://dl.bintray.com/jbaruch/jbaruch-maven/.error=
+http\://russianmorphology.googlecode.com/svn/repo/releases/.lastUpdated=1515837271344
+https\://raw.github.com/nanolaba/mvn-repo/master/.error=
+https\://repo.maven.apache.org/maven2/.lastUpdated=1515837272204
+http\://russianmorphology.googlecode.com/svn/repo/releases/.error=
+https\://repo.maven.apache.org/maven2/.error=
+https\://raw.github.com/nanolaba/mvn-repo/master/.lastUpdated=1515837271307
